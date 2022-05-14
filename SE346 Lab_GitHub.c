@@ -12,8 +12,7 @@ int main()
 
 	printf("Doğan Berkay Sözer,18243510068,Computer Engineering\n");
 
-	printf("Ahmet Utku Saka, 18243510069, CMPE\n")
-
+	printf("Ahmet Utku Saka 18243510069 CMPE\n");
 
 
 }
