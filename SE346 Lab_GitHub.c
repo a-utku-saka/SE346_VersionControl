@@ -23,6 +23,7 @@ int main()
 printf("Aysu İrem Adem,18243510031,CMPE\n");
 printf("Mahmut Furkan Bakal,18243510019,CMPE\n");
 
+	printf("Ahmet Utku Saka 18243510069 CMPE\n");
 
 
 
