@@ -42,5 +42,5 @@ printf("Mahmut Furkan Bakal,18243510019,CMPE\n");
 	printf("Göksu Can Çiftçi, 20243510083, CMPE\n");
 	printf("Serife Gozde Mesci, 18243510015, CMPE");
 	printf("Kutay Akkaya, 18243510025, CMPE");
-	printf("Ahmet Utku Saka, 18243510069, CMPE\n");
+	printf("Ahmet Utku Saka, 18243510069, CMPE");
 }
